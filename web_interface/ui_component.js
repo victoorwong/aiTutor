@@ -1,0 +1,1 @@
+// JavaScript for modular UI components (quiz interface, feedback)
